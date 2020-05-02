@@ -11,7 +11,7 @@ import javax.persistence.Table;
 @Entity
 @Table
 public class Hobbies {
-	
+	//Hobbies
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int hobId;
